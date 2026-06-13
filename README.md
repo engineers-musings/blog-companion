@@ -1,4 +1,4 @@
-# engineers-musings-code
+# blog-companion
 
 Companion code and Colab notebooks for the **[An Engineer's musings](https://engineers-musings.pages.dev)** blog.
 
@@ -9,18 +9,20 @@ repo to be public.
 
 ## Layout
 
-```
-notebooks/<series>/<phase>/<NN-slug>.ipynb
-```
-
-For example, the *Practical PyTorch* series:
+One folder per series, with notebooks named to match the post slug:
 
 ```
-notebooks/pytorch/phase-1/01-what-is-pytorch.ipynb
+<series>/<NN-slug>.ipynb
 ```
 
-Each notebook is the companion to the post of the same slug. Open one in Colab:
+For example, the *Practical PyTorch · I* series:
 
 ```
-https://colab.research.google.com/github/engineers-musings/engineers-musings-code/blob/main/<path-to>.ipynb
+practical-pytorch-I/01-what-is-pytorch.ipynb
+```
+
+Open one in Colab:
+
+```
+https://colab.research.google.com/github/engineers-musings/blog-companion/blob/main/<path>.ipynb
 ```
