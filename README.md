@@ -22,5 +22,5 @@ notebooks/pytorch/phase-1/01-what-is-pytorch.ipynb
 Each notebook is the companion to the post of the same slug. Open one in Colab:
 
 ```
-https://colab.research.google.com/github/sathya-github/engineers-musings-code/blob/main/<path-to>.ipynb
+https://colab.research.google.com/github/engineers-musings/engineers-musings-code/blob/main/<path-to>.ipynb
 ```
