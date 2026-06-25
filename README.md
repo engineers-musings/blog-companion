@@ -15,10 +15,10 @@ One folder per series, with notebooks named to match the post slug:
 <series>/<NN-slug>.ipynb
 ```
 
-For example, the *Practical PyTorch · I* series:
+For example, the *Running Models — Foundations* series:
 
 ```
-practical-pytorch-I/01-what-is-pytorch.ipynb
+running-models-foundations/01-what-is-pytorch.ipynb
 ```
 
 Open one in Colab:
